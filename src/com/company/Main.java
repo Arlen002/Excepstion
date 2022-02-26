@@ -18,7 +18,7 @@ public class Main {
                case JECKSHEMBI -> System.out.println("Жекшемби куну дем алыш.");
            }
        }catch (Exception a){
-           System.out.println("Башка кундор жок!");
+           System.out.println("Мындай кундор жок!");
        }
         }
     }
